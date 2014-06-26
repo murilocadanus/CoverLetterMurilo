@@ -1,6 +1,6 @@
-*/genia.log
-*/genia.pdf
-*/genia.synctex.gz
-*/genia.aux
-*/genia.fdb_latexmk
-*/genia.fls
+*.log
+*.pdf
+*.synctex.gz
+*.aux
+*.fdb_latexmk
+*.fls
