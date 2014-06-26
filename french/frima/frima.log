@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.25)  20 JUN 2014 13:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.25)  25 JUN 2014 20:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -255,29 +255,29 @@ File: ot1pnc.fd 2001/06/04 font definitions for OT1/pnc.
 LaTeX Font Info:    Font shape `OT1/pnc/bx/n' in size <12> not available
 (Font)              Font shape `OT1/pnc/b/n' tried instead on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 57.
+(Font)              <10.95> on input line 60.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 57.
+(Font)              <8> on input line 60.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 57.
+(Font)              <6> on input line 60.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 (/home/psfax/Documents/Workspace/workspace_cv/CoverLetterMurilo/french/frima/fr
 ima.aux) ) 
 Here is how much of TeX's memory you used:
- 412 strings out of 495028
- 4926 string characters out of 6181497
- 51277 words of memory out of 5000000
- 3673 multiletter control sequences out of 15000+600000
+ 414 strings out of 495028
+ 4942 string characters out of 6181497
+ 50277 words of memory out of 5000000
+ 3675 multiletter control sequences out of 15000+600000
  9918 words of font info for 29 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 25i,6n,19p,767b,218s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,6n,19p,767b,221s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/shar
 e/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb>
 Output written on /home/psfax/Documents/Workspace/workspace_cv/CoverLetterMuril
-o/french/frima/frima.pdf (1 page, 33694 bytes).
+o/french/frima/frima.pdf (1 page, 33591 bytes).
 PDF statistics:
  17 PDF objects out of 1000 (max. 8388607)
  11 compressed objects within 1 object stream
